@@ -1,8 +1,11 @@
 # NN_to-_production_impl
 
 * abstract
-* Лекция - Lection.pdf
-* Приложение 1. Обучение ИНС
-* Приложение 2. Телеграм бот
+* Лекция - Lection_text.pdf
+* Презентация - Lection_presentation.pdf
+* Приложение 1. Обучение ИНС - Annex1_fire_fc.ipynb
+* Приложение 2. Телеграм бот - tg_bot
+* Приложение 3. Андроид приложение - FireRecognize
+
 
 
